@@ -98,3 +98,14 @@ a{
     padding: 0.3em 1em ;
     font-size: 0.8rem;
 }
+/* section */
+h1{
+font-size: 4.8rem;
+color:rgba(0, 0, 0, 0.959);
+width: 10em;
+padding: 0.5em;
+margin-top: 1em;
+margin-bottom: 0.5em;
+letter-spacing: 0.5px;
+line-height: 90px;
+}
