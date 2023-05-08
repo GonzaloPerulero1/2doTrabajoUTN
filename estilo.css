@@ -13,3 +13,11 @@ nav{
 a{
     text-decoration: none;
 }
+/* primer div */
+
+/*clase de la marca*/
+.marca{
+    font-size: 2.1rem;
+    letter-spacing: -4px;
+    margin: 0.2em 2em 0.4em 0.5em;
+}
