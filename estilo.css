@@ -57,3 +57,44 @@ a{
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 1em ;
 }
+/* propi. para cada icono */
+/* propi. Lupa */
+.lupa{
+    width: 1em;
+    margin-right: 1em;
+    color: black;
+}
+/* propi.bolsa */
+.bolsita{
+    width: 1.1em;
+    margin-right: -1em;
+    color: black;
+}
+/* propi. circulo */
+.circulo{
+    width: 0.6em;
+    background-color: aliceblue;
+    border-radius: 20px;
+    position: relative;
+    top: -5px;
+    left: 8px;
+}
+/* propi.linea */
+.lineavertical{
+    width: 3em;
+    margin-top: 0.9em;
+    margin-left: 0.2em;
+    color: rgba(95, 95, 95, 0.795);
+}
+/* propiedades para los sign */
+.signuno {
+    color: #2A2A2A;
+    margin-right: 1em;
+    font-size: 0.8rem;
+}
+.signdos{
+    color:#2A2A2A ;
+    border: 1.5px solid black;
+    padding: 0.3em 1em ;
+    font-size: 0.8rem;
+}
