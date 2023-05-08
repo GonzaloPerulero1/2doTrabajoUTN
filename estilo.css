@@ -1,6 +1,6 @@
 */{
     margin: 0;
-    padding: 0
+    padding: 0;
 }
 body{
     background: linear-gradient(to right, white 60%, #d6bda6 40%);
@@ -127,12 +127,12 @@ font-family: Arial, Helvetica, sans-serif;
     margin-top: 6em;
     margin-left: 2.5em;
     width: 22em;
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 .imagenchica{
     height: 90%;
     position: absolute;
-    left: 595px;
+    left: 660px;
     bottom: -30px;
     top: px;
 }
@@ -140,23 +140,23 @@ font-family: Arial, Helvetica, sans-serif;
     border-right: 3px solid black;
     height: 38px;
     position: absolute;
-    left: 1147px;
-    top: 300px;
+    left: 1250px;
+    top: 355px;
     font-size: 0.5rem;
 }
 .lineadivdos{
     border-right: 3px solid rgba(0, 0, 0, 0.534);
     height: 38px;
     position: absolute;
-    left: 1147px;
-    top: 338px;
+    left: 1250px;
+    top: 391px;
     font-size: 0.5rem;
 }
 .lineadivtres{
     border-right: 3px solid rgba(0, 0, 0, 0.534);
     height: 38px;
     position: absolute;
-    left: 1147px;
-    top: 376px;
+    left: 1250px;
+    top: 429px;
     font-size: 0.5rem;
 }
