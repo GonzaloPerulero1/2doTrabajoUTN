@@ -27,3 +27,26 @@ a{
     font-size: 0.8rem; 
     width: 50em;
 }
+/*Menu Home*/
+.uno {
+    color:#2A2A2A ;
+    padding: 1em;
+    margin-right: 2em;
+}    
+/* Menu Shop */
+.dos{
+    color:#2A2A2A ;
+    padding: 1em;
+    margin-right: 2em;
+}
+/* Menu Blog */
+.tres{
+    color:#2A2A2A;
+    padding: 1em;
+    margin-right: 2em;
+}
+/* Menu About */
+.cuatro{
+    color:#2A2A2A;
+    padding: 1em;
+}
