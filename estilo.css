@@ -5,3 +5,8 @@
 body{
     background: linear-gradient(to right, white 60%, #d6bda6 40%);
 }
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
